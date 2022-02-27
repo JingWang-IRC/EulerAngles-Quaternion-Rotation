@@ -18,4 +18,4 @@ The detailed implementation is in Anime_Assignment1/main.cpp.
 
 # Dependency
 The project is build in Visual Studio 2017.
-The library used (a part) are GLM-0.9.8.5, GLEW-2.1.0, GLFW-3.3.2, GLAD, Assimp5.0.0. 
+The used library are GLM-0.9.8.5, GLEW-2.1.0, GLFW-3.3.2, GLAD, Assimp5.0.0. 
