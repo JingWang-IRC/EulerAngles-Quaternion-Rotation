@@ -15,6 +15,12 @@ But for people who use quaternion for the first time may meet a problem that aft
 This is because they did not store the orientation until last rotation.
 Instead, we should update the final quaternion after every frame, and the next rotation should based on this orientation.
 The detailed implementation is in Anime_Assignment1/main.cpp. 
+The images below are showing different orientations of the model.
+
+![image](https://github.com/xxxiaojing/EulerAngles-Quaternion-Rotation/blob/main/demo_image/euler.jpg)
+![image](https://github.com/xxxiaojing/EulerAngles-Quaternion-Rotation/blob/main/demo_image/euler_pitch.jpg)
+![image](https://github.com/xxxiaojing/EulerAngles-Quaternion-Rotation/blob/main/demo_image/euler_roll.jpg)
+![image](https://github.com/xxxiaojing/EulerAngles-Quaternion-Rotation/blob/main/demo_image/euler_yaw.jpg)
 
 # Dependency
 The project is build in Visual Studio 2017.
