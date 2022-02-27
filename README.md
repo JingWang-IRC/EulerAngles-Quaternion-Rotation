@@ -2,7 +2,7 @@
 Implemented rotation using Euler angles and quaternion respectively.
 [A short demonstration](https://www.youtube.com/watch?v=KdTAo2uqvpg&t=1s) has been uploaded to Youtube.
 For more detailed information, you can refer to the description (PDF) in this repository.
-All the code are in the Anime_Assignment1 folder, while the 3D models are in the Release folder.
+All the code are in the **Anime_Assignment1** folder, while the 3D models are in the **Release** folder.
 
 # Euler angles and Quaternion
 Euler angles is a easy way to implement rotations.
